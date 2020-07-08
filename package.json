@@ -1,0 +1,22 @@
+{
+  "name": "alyramag_b5",
+  "version": "1.0.0",
+  "description": "### Référence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierre-phil/alyramag_b5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierre-phil/alyramag_b5/issues"
+  },
+  "homepage": "https://github.com/pierre-phil/alyramag_b5#readme",
+  "devDependencies": {
+    "bootstrap": "^5.0.0-alpha1"
+  }
+}
